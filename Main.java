@@ -16,7 +16,7 @@ public class Main {
             System.out.println("3. Seleccionar una carta al azar");
             System.out.println("4. Pedir una mano");
             System.out.println("5. Salir");
-            System.out.print("Selecciona una opción: ");
+            System.out.print("Selecciona una opcion: ");
             
             
             opcion = scanner.nextInt();
