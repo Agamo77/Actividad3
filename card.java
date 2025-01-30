@@ -4,7 +4,7 @@ public class card {
     private String valor;
 
     // Creamos los constructores de las cartas
-public Card(String palo, String color, int valor){
+public card(String palo, String color, String valor){
     this.palo = palo;
     this.color = color;
     this.valor = valor;
